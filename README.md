@@ -1,0 +1,1 @@
+Desperados- These are the neccessary files to create the Desperados collection of the Dero Desperados Artificer Standard NFA collection. Desperados files consist of the main assets, icons, cover art, and sign files.
